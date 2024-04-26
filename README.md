@@ -7,7 +7,7 @@ to language.
 NLP uses the concept of word vector (embeddings) through the Word2Vec mecanism
 to be able to do machine learning. So, this concept is implemented is the following
 manner: one word is represented as a point (with n dimensions, n as a real number 
->= 1) in a vector space. So, each word has n numerical components (vector n-dimensional)
+greater or equal to 1) in a vector space. So, each word has n numerical components (vector n-dimensional)
 that depicts it's location in the vector space. 
 Words that are next to each other are similar, synonim or related word. Words that are
 far apart are dissimilar or not related. 
