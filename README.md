@@ -32,4 +32,5 @@ logistic regression.
 
 This repository represents intro studies on the matter, with it's applications
 in Python, using the spacy library, on different fields. Here, I'm using the material developed by 
-Dr. W.J.B. Mattingly, available at [http://spacy.pythonhumanities.com/02_06_complex_regex.html](http://spacy.pythonhumanities.com/02_06_complex_regex.html).
+Dr. W.J.B. Mattingly: 
+Mattingly, William. Introduction to spaCy 3, 2021 (1st ed.). [spacy.pythonhumanities.com](http://spacy.pythonhumanities.com/02_06_complex_regex.html).
