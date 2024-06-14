@@ -31,4 +31,5 @@ This vector is sent through a simple perceptron with a simple classification, su
 logistic regression.
 
 This repository represents intro studies on the matter, with it's applications
-in Python on different fields.
+in Python, using the spacy library, on different fields. Here, I'm using the material developed by 
+Dr. W.J.B. Mattingly, available at [http://spacy.pythonhumanities.com/02_06_complex_regex.html](http://spacy.pythonhumanities.com/02_06_complex_regex.html).
